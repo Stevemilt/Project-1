@@ -57,6 +57,30 @@ A deep dive in to the Cardio Vascular data set to identify existing trends and r
 ## Data Analysis Screenshots
 ![image](https://user-images.githubusercontent.com/68937366/112089286-4e689c80-8bcc-11eb-9a5e-003f0b119d29.png)
 
+![image](https://user-images.githubusercontent.com/68937366/112089350-6d672e80-8bcc-11eb-9f67-7c097cae6266.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112089367-76f09680-8bcc-11eb-9385-69fed813b140.png)
+
+### Logistic Regression to find correlations with Chi2 (Chi Square)
+
+![image](https://user-images.githubusercontent.com/68937366/112089394-866fdf80-8bcc-11eb-8c9b-0542e1f5e46d.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112089417-98518280-8bcc-11eb-9d47-303999cd472a.png)
+
+![image](https://user-images.githubusercontent.com/68937366/112089443-a43d4480-8bcc-11eb-8368-2c7e4317dc43.png)
+
+## Conclusion
+ * Gender was not a contributing factor to CVD
+ * As Age progresses the chance of CVD increases (especially after age 55)
+ * High Cholesterol levels indicate an increased chance of CVD.
+ * Blood Pressure levels above 120 had a direct correlation with CVD.
+ * Patients with a BMI index of Overweight and Obese have a higher chance of CVD.
+ * Patients who exercise are less likely to contract CVD in comparison to those who do not exercise.
+ * Predictive analysis, using logistic regression model we were able to have an accuracy level of 72%
+
+## Limitations
+ * Missing variables contributing to CVD: Nutrition, dietary, location, socio-economic factors.
+ * Unable to present more variety of visualizations due to categorical data.    
 
 
 
