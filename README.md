@@ -8,7 +8,7 @@ Brett Wallis
 Nalishebo Meebelo
 
 ## Summary
-A deep dive in to the Cardio Vascular data set to identify existing trends and relationships between Gender, Age, Cholestrol, BP, BMI etc..
+A deep dive in to the Cardio Vascular data set to identify existing trends and relationships between Gender, Age, Cholesterol, BP, BMI etc..
 
 ## Questions to be answered through the analysis.
 * Which gender (male or female) is more likely to have CVD?
